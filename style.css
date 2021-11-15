@@ -1,0 +1,30 @@
+
+
+body{
+    background-color: #ffffff;
+    text-align: center;
+    border: 10px solid black;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+
+.container{
+    margin-top: 200px;
+    font-size: 40px;
+    
+}
+
+div{
+    margin-bottom: 75px;
+}
+
+button{
+    font-size: 40px;
+}
+
+input{
+    font-size: 30px;
+}
